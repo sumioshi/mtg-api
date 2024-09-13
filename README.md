@@ -1,4 +1,5 @@
-Esta branch implementa o cacheamento na rota que lista os baralhos do jogador logado, melhorando a performance e reduzindo a carga nas requisições.
+Aqui, é criada uma rota para importar um baralho via JSON. Além disso, essa branch valida se o baralho segue as regras do formato Commander.
 
-Funcionalidade principal: Cacheamento da listagem de baralhos do jogador.
-Objetivo: Aumentar a eficiência do sistema ao armazenar em cache as listagens frequentes.
+Funcionalidade principal: Importação de baralhos via JSON com validação.
+Objetivo: Garantir que os baralhos importados estejam de acordo com as regras do formato Commander.
+
