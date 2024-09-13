@@ -1,4 +1,4 @@
-Aqui, é criada uma rota para importar um baralho via JSON. Além disso, essa branch valida se o baralho segue as regras do formato Commander.
+Branch destinada à execução de testes de performance, comparando a eficiência entre as rotas com e sem cache. Através desses testes, é possível medir o tempo de resposta e a quantidade de requisições atendidas.
 
-Funcionalidade principal: Importação de baralhos via JSON com validação.
-Objetivo: Garantir que os baralhos importados estejam de acordo com as regras do formato Commander.
+Funcionalidade principal: Testes de performance com cache vs sem cache.
+Objetivo: Demonstrar os ganhos de performance ao utilizar cacheamento.
